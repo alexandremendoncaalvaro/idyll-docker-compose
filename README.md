@@ -11,6 +11,9 @@ You'll need Git, Docker and Docker-Compose
 
 ## Installation
 ```bash
+git clone https://github.com/alexandremendoncaalvaro/idyll-docker-compose.git && cd idyll-docker-compose
+```
+```bash
 docker-compose build
 ```
 ## Use
